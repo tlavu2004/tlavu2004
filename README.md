@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Le Anh Vu</h1>
-<h3 align="center">A backend and DevOps enthusiast, building reliable systems and exploring full-stack when needed.</h3>
+<h3 align="center">A backend enthusiast exploring DevOps and full-stack when needed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlavu2004&label=Profile%20views&color=0e75b6&style=flat" alt="tlavu2004" /> </p>
 
@@ -50,8 +50,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tlavu2004 "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tlavu2004 " /></a><a href="https://ko-fi.com/tlavu2004"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tlavu2004" /></a></p><br><br>
 
-<h3>GitHub Stats</h3>
-
+<h3>GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tlavu2004&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br />
