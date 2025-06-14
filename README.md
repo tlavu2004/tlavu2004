@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Truong "Victor" Le Anh Vu</h1>
+<h1 align="center">Hi 👋, I'm Truong Le Anh Vu</h1>
 <h3 align="center">A backend and DevOps enthusiast, building reliable systems and exploring full-stack when needed.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlavu2004&label=Profile%20views&color=0e75b6&style=flat" alt="tlavu2004" /> </p>
@@ -21,11 +21,11 @@
 
 - 💬 Ask me about **C/C++ and Java – especially backend logic and data structures.**
 
-- 📫 How to reach me **truongleanhvu20052004@gmail.com**
+- 📫 How to reach me: **truongleanhvu20052004@gmail.com**
 
-- 📄 Know about my experiences [https://tlavu2004.github.io](https://tlavu2004.github.io)
+- 📄 Know about my experiences: [https://tlavu2004.github.io](https://tlavu2004.github.io)
 
-- ⚡ Fun fact **I enjoy debugging more than writing new code – because solving bugs feels like winning small battles.**
+- ⚡ Fun fact: **I enjoy debugging more than writing new code – because solving bugs feels like winning small battles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,8 +50,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tlavu2004 "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tlavu2004 " /></a><a href="https://ko-fi.com/tlavu2004"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tlavu2004" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlavu2004&show_icons=true&locale=en&layout=compact" alt="tlavu2004" /></p>
+<h3>GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlavu2004&show_icons=true&locale=en" alt="tlavu2004" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlavu2004&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlavu2004&theme=nightowl&hide_border=false" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlavu2004&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlavu2004&" alt="tlavu2004" /></p>
