@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://twitter.com/tlavu2004" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/tlavu2004?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/tlavu2004?label=Follow&style=social"
       alt="tlavu2004"
   /></a>
 </p>
