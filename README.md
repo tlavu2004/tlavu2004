@@ -574,3 +574,14 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlavu2004&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
   />
 </p>
+
+<div class="top-contributed-repo">
+  <h3>Top Contributed Repo</h3>
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=tlavu2004&limit=10&theme=dark&combine_all_yearly_contributions=true"
+    alt="Top contributed repositories for tlavu2004"
+    loading="lazy"
+    decoding="async"
+  />
+</div>
+
