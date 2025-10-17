@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Truong Le Anh Vu</h1>
+<h1 align="center">Hi, I'm Truong Le Anh Vu</h1>
 <h3 align="center">
   A backend enthusiast, exploring DevOps and full-stack when needed.
 </h3>
@@ -32,11 +32,11 @@
 - 🌱 I’m currently learning **Java Spring Boot, Gin-gonic and DevOps Tools tools like Docker, Jenkins, Kubernetes, etc.**
 - 👯 I’m looking to collaborate on [Quiz Platform](https://github.com/tlavu2004/quiz-platform-backend)
 - 🤝 I’m looking for help with [Bookstore](https://github.com/tlavu2004/bookstore-backend)
-- 👨‍💻 All of my projects are available at [https://github.com/tlavu2004?tab=repositories](https://github.com/tlavu2004?tab=repositories)
-- 📝 I regularly write articles on [https://stackoverflow.com/](https://stackoverflow.com/)
-- 💬 Ask me about **C/C++ and Java – especially backend logic and data structures.**
+- 👨‍💻 All of my projects are available at [here](https://github.com/tlavu2004?tab=repositories)
+- 📝 I regularly write articles on [Stackoverflow](https://stackoverflow.com/)
+- 💬 Ask me about **C/C++, Java, JS/TS and Go – especially backend logic and data structures.**
 - 📫 How to reach me: **truongleanhvu20052004@gmail.com**
-- 📄 Know about my experiences: [https://tlavu2004.github.io](https://tlavu2004.github.io)
+- 📄 Know about my experiences: [here](https://tlavu2004.github.io)
 - ⚡ Fun fact: **I enjoy debugging more than writing new code – because solving bugs feels like winning small battles.**
 
 <h3 align="left">Connect with me:</h3>
@@ -154,14 +154,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!-- 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+        alt="android"
+        width="40"
+        height="40"
+      /> 
+    </a>
+  -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -186,14 +188,16 @@
       height="40"
     />
   </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
-      alt="cassandra"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
+        alt="cassandra"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -210,14 +214,16 @@
       height="40"
     />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+        alt="dart"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -250,30 +256,36 @@
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        alt="firebase"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
+  <!--
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+        alt="flutter"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
+  <!--
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+        alt="gcp"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -290,22 +302,26 @@
       height="40"
     />
   </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
-      alt="grafana"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
+        alt="grafana"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
+  <!--
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+        alt="graphql"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -323,9 +339,7 @@
     />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -350,14 +364,16 @@
       height="40"
     />
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
+        alt="kotlin"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
@@ -402,14 +418,16 @@
       height="40"
     />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+        alt="nestjs"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -474,14 +492,16 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://reactnative.dev/img/header_logo.svg"
+        alt="reactnative"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -490,6 +510,7 @@
       height="40"
     />
   </a>
+  <!--
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -498,14 +519,17 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
+  -->
+  <!--
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+        alt="sass"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -514,14 +538,16 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+        alt="sqlite"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -578,10 +604,9 @@
 <div class="top-contributed-repo">
   <h3>Top Contributed Repo</h3>
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=tlavu2004&limit=10&theme=dark&combine_all_yearly_contributions=true"
+    src="https://github-contributor-stats.vercel.app/api?username=tlavu2004&limit=5&theme=dark&combine_all_yearly_contributions=true"
     alt="Top contributed repositories for tlavu2004"
     loading="lazy"
     decoding="async"
   />
 </div>
-
