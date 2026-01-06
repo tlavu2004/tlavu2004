@@ -28,16 +28,11 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Book Review Hub](https://github.com/tlavu2004/book-review-hub-backend)
 - 🌱 I’m currently learning **Java Spring Boot, Gin-gonic and DevOps Tools tools like Docker, Jenkins, Kubernetes, etc.**
-- 👯 I’m looking to collaborate on [Quiz Platform](https://github.com/tlavu2004/quiz-platform-backend)
-- 🤝 I’m looking for help with [Bookstore](https://github.com/tlavu2004/bookstore-backend)
 - 👨‍💻 All of my projects are available at [here](https://github.com/tlavu2004?tab=repositories)
-- 📝 I regularly write articles on [Stackoverflow](https://stackoverflow.com/)
-- 💬 Ask me about **C/C++, Java, JS/TS and Go – especially backend logic and data structures.**
+- 💬 Ask me about **C/C++, Java, JS/TS and Go.**
 - 📫 How to reach me: **truongleanhvu20052004@gmail.com**
 - 📄 Know about my experiences: [here](https://tlavu2004.github.io)
-- ⚡ Fun fact: **I enjoy debugging more than writing new code – because solving bugs feels like winning small battles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
