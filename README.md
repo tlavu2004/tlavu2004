@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Truong Le Anh Vu</h1>
 <h3 align="center">
-  A backend enthusiast, exploring DevOps and full-stack when needed.
+  A backend enthusiast, focusing on server-side development and database management.
 </h3>
 
 <!--
@@ -28,9 +28,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Java Spring Boot, Gin-gonic and DevOps Tools tools like Docker, Jenkins, Kubernetes, etc.**
+- 🌱 I’m currently learning **Java Spring Boot, Gin-gonic and DevOps Tools tools like Docker, Jenkins, etc.**
 - 👨‍💻 All of my projects are available at [here](https://github.com/tlavu2004?tab=repositories)
-- 💬 Ask me about **C/C++, Java, JS/TS and Go.**
 - 📫 How to reach me: **truongleanhvu20052004@gmail.com**
 - 📄 Know about my experiences: [here](https://tlavu2004.github.io)
 
@@ -159,14 +158,16 @@
       /> 
     </a>
   -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        alt="aws"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -193,14 +194,16 @@
       />
     </a>
   -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -251,16 +254,14 @@
       height="40"
     />
   </a>
-  <!--
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-  -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
   <!--
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
       <img
@@ -413,32 +414,33 @@
       height="40"
     />
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354107/nestjs.svg"
+      width="40"
+      height="40"
+    />
+  </a>
   <!--
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-        alt="nestjs"
+        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        alt="nextjs"
         width="40"
         height="40"
       />
     </a>
   -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+        alt="nginx"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -543,14 +545,16 @@
       />
     </a>
   -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!--  
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        alt="tailwind"
+        width="40"
+        height="40"
+      />
+    </a>
+  -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
